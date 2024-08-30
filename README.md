@@ -7,7 +7,7 @@ We strongly encourage you to clone the repositories, and evaluate the output of 
 BCIStainer: https://github.com/quqixun/BCIStainer  
 Pyramid Pix2Pix: https://github.com/bupt-ai-cz/BCI  
 (CUT) with Supervised PatchNCE Loss: https://github.com/lifangda01/AdaptiveSupervisedPatchNCE  
-The BCI dataset itself can be accessed using: https://drive.google.com/drive/folders/1jApbId20lX8AY0tIsoX2_2BHBLPoxD4L?usp=sharing  
+The BCI dataset itself can be accessed using: https://bupt-ai-cz.github.io/BCI/
 
 However, we provide you with the evaluated images from the three methods, and you can access them using these links:  
 BCIStainer: https://drive.google.com/drive/folders/1ELjMqUxp5qPB_J2W75jcrXdlAZcKqLSf?usp=sharing  
