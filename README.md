@@ -1,5 +1,5 @@
 # BCI fusion
-
+![model illustration](./illustration.png)
 ## Datasets
 
 We strongly encourage you to clone the repositories, and evaluate the output of the three models yourself using these links:  
