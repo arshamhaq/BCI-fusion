@@ -24,7 +24,7 @@ for maximum convenience we implemented all of the code in a single jupyter noteb
 The trained weights are available on (https://drive.google.com/file/d/10DvhvqvoWuqf4gcuA-bjh0sKkVgY2Iw4/view?usp=sharing) which you can use to avoid training from scratch.  
 the code is simple and easy to understand. Feel free to change any part as you wish.  
 
-##environment
+## Environment
 
 All the code is run on colab and does not require a high-end GPU.
 
