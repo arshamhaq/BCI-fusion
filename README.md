@@ -1,11 +1,7 @@
 # BCI-Fusion
 ### Arsham Haqiqat
 
-<br>
-<p align="center">
-<img src="illustration.png" align="center" width="600" >
-</p>
-<br>
+![model illustration](./illustration.png)
 
 > the description goes here
 
