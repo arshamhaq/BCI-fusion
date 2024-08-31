@@ -1,9 +1,9 @@
-# BCI-Fusion
+# Tri-Model Integration: Advancing Breast Cancer Immunohistochemical Image Generation through Multi-Method Fusion
 ### Arsham Haqiqat
 
 ![model illustration](./illustration.png)
 
-> the description goes here
+> Immunohistochemical (IHC) staining is a crucial technique for diagnosing and formulating treatment plans for breast cancer, particularly by evaluating the expression of biomarkers like human epidermal growth factor receptor-2 (HER2). However, the high cost and complexity of IHC staining procedures have driven research toward generating IHC-stained images directly from more readily available Hematoxylin and Eosin (H&E) stained images using image-to-image (I2I) translation methods. In this work, we propose a novel approach that combines the predictive capabilities of three state-of-the-art I2I models to enhance the quality and reliability of synthetic IHC images. Specifically, we designed a Convolutional Neural Network (CNN) that takes as input a four-dimensional input comprising the outputs of three distinct models (each contributing a IHC prediction) and produces a final consensus image through a voting mechanism. This ensemble method leverages the strengths of each individual model, leading to more robust and accurate IHC image generation. Extensive experiments on the BCI dataset demonstrate that our approach outperforms existing single-model methods, achieving superior Peak Signal-to-Noise Ratio (PSNR) and Structural Similarity Index (SSIM) metrics.
 
 ## Datasets
 
