@@ -21,7 +21,7 @@ pip install -r requirements.txt
 ```
 ## Training and Evaluation
 for maximum convenience we implemented all of the code in a single jupyter notebook file, which can be used on any platform (windows, linux, colab, ...). The markdowns in the file guide you throughly on how to train or evaluate the model.  
-The trained weights are available on [google drive]((https://drive.google.com/file/d/10DvhvqvoWuqf4gcuA-bjh0sKkVgY2Iw4/view?usp=sharing) which you can use to avoid training from scratch.  
+The trained weights are available on [google drive](https://drive.google.com/file/d/10DvhvqvoWuqf4gcuA-bjh0sKkVgY2Iw4/view?usp=sharing) which you can use to avoid training from scratch.  
 the code is simple and easy to understand. Feel free to change any part as you wish.  
 
 ## Environment
