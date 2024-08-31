@@ -1,5 +1,14 @@
-# BCI fusion
-![model illustration](./illustration.png)
+# BCI-Fusion
+### Arsham Haqiqat
+
+<br>
+<p align="center">
+<img src="illustration.png" align="center" width="600" >
+</p>
+<br>
+
+> the description goes here
+
 ## Datasets
 
 We strongly encourage you to clone the repositories, and evaluate the output of the three models yourself using these links:  
