@@ -46,9 +46,9 @@ All the code is run on colab and does not require a high-end GPU.
 
 ## References
 
-[4] S. Liu, C. Zhu, F. Xu, X. Jia, Z. Shi, and M. Jin. **BCI: Breast cancer immunohistochemical image generation through pyramid pix2pix**, 2022.
+[4]   S. Liu, C. Zhu, F. Xu, X. Jia, Z. Shi, and M. Jin. **BCI: Breast cancer immunohistochemical image generation through pyramid pix2pix**, 2022.
 
-[9] C. Zhu, S. Liu, Z. Yu, F. Xu, A. Aggarwal, G. Corredor, A. Madabhushi, Q. Qu, H. Fan, F. Li, Y. Li, X. Guan, Y. Zhang, V. K. Singh, F. Akram, M. M. K. Sarker, Z. Shi, and M. Jin. **Breast cancer immunohistochemical image generation: A benchmark dataset and challenge review**, 2023.
+[9]   C. Zhu, S. Liu, Z. Yu, F. Xu, A. Aggarwal, G. Corredor, A. Madabhushi, Q. Qu, H. Fan, F. Li, Y. Li, X. Guan, Y. Zhang, V. K. Singh, F. Akram, M. M. K. Sarker, Z. Shi,         and M. Jin. **Breast cancer immunohistochemical image generation: A benchmark dataset and challenge review**, 2023.
 
 
 
