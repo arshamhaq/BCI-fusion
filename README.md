@@ -18,13 +18,13 @@
 
 ## Datasets
 
-The BCI dataset can be accessed through [bci page](https://bupt-ai-cz.github.io/BCI/) 
-The three models we used in our architecture can be found here: 
-BCIStainer: [git-hub link](https://github.com/quqixun/BCIStainer) 
-Pyramid Pix2Pix: [git-hub link](https://github.com/bupt-ai-cz/BCI) 
-(CUT) with Supervised PatchNCE Loss: [git-hub link](https://github.com/lifangda01/AdaptiveSupervisedPatchNCE) 
- 
-First download the BCI dataset and use the instructions for each of the three models to evaluate the IHC images for the train and test sections of the BCI dataset for each of the models. 
+The BCI dataset can be accessed through [bci page](https://bupt-ai-cz.github.io/BCI/)  
+The three models we used in our architecture can be found here:  
+BCIStainer: [git-hub link](https://github.com/quqixun/BCIStainer)  
+Pyramid Pix2Pix: [git-hub link](https://github.com/bupt-ai-cz/BCI)  
+(CUT) with Supervised PatchNCE Loss: [git-hub link](https://github.com/lifangda01/AdaptiveSupervisedPatchNCE)  
+  
+First download the BCI dataset and use the instructions for each of the three models to evaluate the IHC images for the train and test sections of the BCI dataset for each of the models.  
 after evaluating the IHC databases for each method, follow the markdowns on the BCI_fusion.ipynb file to use our fusion method for training or evaulation.
 
 ## Requirements
