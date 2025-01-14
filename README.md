@@ -38,7 +38,7 @@ The trained weights are available on [google drive](https://drive.google.com/fil
 
 ## Environment
 
-The code is run on Nvidia GTx 1080.
+The code is run on Nvidia GTX 1080.
 
 ## References
 
